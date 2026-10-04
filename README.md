@@ -38,12 +38,12 @@ The models were evaluated using:
 ## Results
 
 | Model | MAE | MSE | R² |
-
+|---|---:|---:|---:|
 | Linear Regression | 0.5332 | 0.5559 | 0.5758 |
 | Ridge | 0.5337 | 0.5523 | 0.5785 |
 | Lasso | 0.5353 | 0.5483 | 0.5816 |
 | Decision Tree | 0.4332 | 0.4155 | 0.6829 |
-| Random Forest | 0.3270 | 0.2542 | 0.8060 |
+| Random Forest | **0.3270** | **0.2542** | **0.8060** |
 
 ## Conclusion
 
